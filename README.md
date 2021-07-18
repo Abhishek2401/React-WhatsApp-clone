@@ -2,6 +2,13 @@
 ## WhatsApp-clone Live Demo
 [click here](https://whatsapp-clone-85de8.web.app/)
 
+## Build using
+  <li> React Js
+  <li> React Router
+  <li> Material UI
+  <li> Context API
+  <li> Firebase Realtime Firestore DB
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
