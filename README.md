@@ -3,6 +3,7 @@
 [click here](https://whatsapp-clone-85de8.web.app/)
 
 ## Build using
+  <li> Google Authentication
   <li> React Js
   <li> React Router
   <li> Material UI
